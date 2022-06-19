@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 merged code correctly from main and branch1 correctly.
 success......
+=======
+merge complict testing
+
+
+doing changes in file6 of branch1
+doing changes in file6 of main branch
+
+leads to complict
+>>>>>>> branch1
