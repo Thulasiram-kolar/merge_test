@@ -1,2 +1,9 @@
 three line merging concept
 update code in branch1 as well as we need to update in main also.
+
+
+this code came from branch1 when merged
+brancg1 --update code in file5
+main --updated code in file5_2 and file 5 empty
+
+when merged file5 of branch 1 file 5_2 of main are updated with code.....and file5 of branch1 is  copied into file5 of main.
